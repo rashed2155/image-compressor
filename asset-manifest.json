@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/image-compressor/static/css/main.4689fc5a.chunk.css",
+    "main.js": "/image-compressor/static/js/main.d0f85f7c.chunk.js",
+    "main.js.map": "/image-compressor/static/js/main.d0f85f7c.chunk.js.map",
+    "runtime-main.js": "/image-compressor/static/js/runtime-main.285707cd.js",
+    "runtime-main.js.map": "/image-compressor/static/js/runtime-main.285707cd.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/image-compressor/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7084d180.chunk.js": "/image-compressor/static/js/2.7084d180.chunk.js",
+    "static/js/2.7084d180.chunk.js.map": "/image-compressor/static/js/2.7084d180.chunk.js.map",
+    "index.html": "/image-compressor/index.html",
+    "precache-manifest.00ad135df4759e24e477c6d516f01b12.js": "/image-compressor/precache-manifest.00ad135df4759e24e477c6d516f01b12.js",
+    "service-worker.js": "/image-compressor/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/image-compressor/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4689fc5a.chunk.css.map": "/image-compressor/static/css/main.4689fc5a.chunk.css.map",
+    "static/js/2.7084d180.chunk.js.LICENSE.txt": "/image-compressor/static/js/2.7084d180.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.285707cd.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7084d180.chunk.js",
+    "static/css/main.4689fc5a.chunk.css",
+    "static/js/main.d0f85f7c.chunk.js"
+  ]
+}
